@@ -30,7 +30,6 @@ So account for this issue, we can instead just choose a pivot at random. This ca
 
 {% highlight python %}
 import random
-
 def randomized_quicksort(L):
     if len(L) == 1 or len(L) == 0:
         return L
