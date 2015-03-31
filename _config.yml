@@ -1,0 +1,23 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            dfa.io
+tagline:          a regular tech blog
+url:              http://dfa.io
+paginate:         1
+baseurl:          /
+author:
+  name:           Evan Bergeron
+  url:            https://evanbergeron.com
+  email:          ebergeron@cmu.edu
+
+pages_list:
+  About: '/about'
+  # Archive: '/archive'
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/poole/poole
